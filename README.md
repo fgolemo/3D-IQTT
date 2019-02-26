@@ -2,6 +2,10 @@
 
 Dataset loading scripts for the 3D IQ test task (3D-IQTT) dataset.
 
+Example:
+![sample from the 3D-IQTT dataset](sample.png "Random sample from the 'train-labeled' part of the 3D-IQTT dataset.")
+
+
 ### Prerequisites:
 
 This is the companion code repository for the 3D-IQTT dataset. You need to download the dataset first. No worries, you don't need to sign anything. 
@@ -27,7 +31,6 @@ The `--verbose` is important to get a progress bar, because this takes ~1-3h.
 ### How to use
 
 Check out the file `scripts/1-load-train-data.py`. That file contains a self-contained example on how to load the different datasets. You just have to change the directoy in line `10`.
-
-### 
+ 
         
         
