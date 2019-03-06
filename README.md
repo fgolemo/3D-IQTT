@@ -30,7 +30,9 @@ The `--verbose` is important to get a progress bar, because this takes ~1-3h.
    
 ### How to use
 
+
 Check out the file `scripts/1-load-train-data.py`. That file contains a self-contained example on how to load the different datasets. You just have to change the directoy in line `10`.
- 
-        
-        
+
+On macosx, before using the script, make sure you have a ~/.matplotlib/matplotlibrc file with:
+
+    backend: TkAgg
