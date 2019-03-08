@@ -1,6 +1,8 @@
 # 3D-IQTT
 
-Dataset loading scripts for the 3D IQ test task (3D-IQTT) dataset.
+Dataset loading scripts for the 3D IQ test task (3D-IQTT) dataset. 
+
+The dataset itself is available here: [https://zenodo.org/record/2573265](https://zenodo.org/record/2573265)
 
 Example:
 ![sample from the 3D-IQTT dataset](sample.png "Random sample from the 'train-labeled' part of the 3D-IQTT dataset.")
